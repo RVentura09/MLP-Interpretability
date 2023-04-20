@@ -42,9 +42,9 @@ References
 
 3. Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
 
-4.Dr. Sreenivas Bhattiprolu ,https://raw.githubusercontent.com/bnsreenu/python_for_microscopists/master/Tips_Tricks_42_How%20to%20remove%20text%20from%20images.py
+4. Dr. Sreenivas Bhattiprolu ,https://raw.githubusercontent.com/bnsreenu/python_for_microscopists/master/Tips_Tricks_42_How%20to%20remove%20text%20from%20images.py
 
-5.Sergio Canu ,https://pysource.com/2021/03/04/how-crop-images-with-opencv-and-python/
+5. Sergio Canu ,https://pysource.com/2021/03/04/how-crop-images-with-opencv-and-python/
 
 
 
