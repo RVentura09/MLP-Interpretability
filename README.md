@@ -8,14 +8,14 @@ In the notebook we can generate global or local interpretations. To generate a g
 
 #### Recommended version for libraries
 
-aletheia-dnn
-Python 3.9 
-matplotlib>=3.7.1
-numpy>=1.23.5
-pandas>= 1.5.3
-seaborn>=0.12.2
-scikit-learn>=1.2.2
-statsmodels>=0.13.5
+- aletheia-dnn
+- Python 3.9 
+- matplotlib>=3.7.1
+- numpy>=1.23.5
+- pandas>= 1.5.3
+- seaborn>=0.12.2
+- scikit-learn>=1.2.2
+- statsmodels>=0.13.5
 
 #### Data 
 
