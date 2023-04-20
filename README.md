@@ -37,9 +37,13 @@ The pneumonia dataset is published by Kermany et al. on Mendeley Data <https://d
 
 References
 1. Agus Sudjianto, William Knauth, Rahul Singh, Zebin Yang and Aijun Zhang. 2020. Unwrapping The Black Box of Deep ReLU Networks: Interpretability, Diagnostics, and Simplification. arXiv:2011.04041 
+
 2. Alejandro Kuratomi Hernandez ,Ph.D. Machine Learning Interpretability.  https://alku.blogs.dsv.su.se/
+
 3. Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
+
 4.Dr. Sreenivas Bhattiprolu ,https://raw.githubusercontent.com/bnsreenu/python_for_microscopists/master/Tips_Tricks_42_How%20to%20remove%20text%20from%20images.py
+
 5.Sergio Canu ,https://pysource.com/2021/03/04/how-crop-images-with-opencv-and-python/
 
 
